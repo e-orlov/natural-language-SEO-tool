@@ -1,0 +1,40 @@
+Category,URL,Data,Relevancy Score,Frequency
+keywords,https://www.bbc.co.uk/news,Alf Clausen,0.766501,1
+keywords,https://www.bbc.co.uk/news,Belgian cyclist Bjorg Lambrecht,0.696625,1
+keywords,https://www.bbc.co.uk/news,"former US president's comments",0.692809,1
+keywords,https://www.bbc.co.uk/news,Passengers of the Airbus A321,0.64427,1
+keywords,https://www.bbc.co.uk/news,17-year-old boy,0.641342,1
+keywords,https://www.bbc.co.uk/news,series of missile test,0.593068,1
+keywords,https://www.bbc.co.uk/news,recent days,0.586334,1
+keywords,https://www.bbc.co.uk/news,Donald Trump,0.583487,1
+keywords,https://www.bbc.co.uk/news,nearby villages,0.576737,1
+keywords,https://www.bbc.co.uk/news,"show's music",0.565784,1
+keywords,https://www.bbc.co.uk/news,El Paso,0.549128,1
+keywords,https://www.bbc.co.uk/news,special status,0.549128,2
+keywords,https://www.bbc.co.uk/news,wife Jordan,0.538319,1
+keywords,https://www.bbc.co.uk/news,military exercises,0.531714,1
+keywords,https://www.bbc.co.uk/news,Andre,0.527802,1
+entity,https://www.bbc.co.uk/news,Alf Clausen,0.91771,2
+entity,https://www.bbc.co.uk/news,India,0.825735,2
+entity,https://www.bbc.co.uk/news,BBC,0.804666,2
+entity,https://www.bbc.co.uk/news,Donald Trump,0.736382,1
+entity,https://www.bbc.co.uk/news,Airbus,0.649346,1
+entity,https://www.bbc.co.uk/news,Brussels,0.641104,1
+entity,https://www.bbc.co.uk/news,Bjorg Lambrecht,0.624275,1
+entity,https://www.bbc.co.uk/news,US,0.615368,1
+entity,https://www.bbc.co.uk/news,El Paso,0.597,1
+entity,https://www.bbc.co.uk/news,UK,0.595988,1
+entity,https://www.bbc.co.uk/news,president,0.590947,1
+entity,https://www.bbc.co.uk/news,Andre,0.555933,1
+entity,https://www.bbc.co.uk/news,Washington,0.549402,1
+entity,https://www.bbc.co.uk/news,Beijing,0.538378,1
+category,https://www.bbc.co.uk/news,/travel/transports/air travel/airlines,0.676964
+category,https://www.bbc.co.uk/news,"/law, govt and politics",0.652297
+category,https://www.bbc.co.uk/news,/society/unrest and war,0.645298
+category,https://www.bbc.co.uk/news,/society/crime/personal offense,0.570961
+category,https://www.bbc.co.uk/news,/society/crime/personal offense/assault,0.561529
+category,https://www.bbc.co.uk/news,/business and industrial/business operations,0.552972
+category,https://www.bbc.co.uk/news,/travel/transports/air travel/airports,0.540372
+category,https://www.bbc.co.uk/news,"/law, govt and politics/armed forces",0.528315
+category,https://www.bbc.co.uk/news,/business and industrial/business operations/business plans,0.527067
+category,https://www.bbc.co.uk/news,"/law, govt and politics/politics",0.525023
