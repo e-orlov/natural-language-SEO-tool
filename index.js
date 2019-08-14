@@ -167,12 +167,6 @@ results.then(data => {
         }
     });
 
-    fs.writeFile("./raw-log.txt", JSON.stringify(flat_data), function(err) {
-        if (err) {
-            console.error('log file error');
-        }
-    })
-
     sheet.addRows(clean_data);
 
     pivotArray(clean_data)
@@ -255,8 +249,6 @@ const pivotArray = (data) => {
     const keywords = keyword_sum_array.slice(0, sizeArray);
     const entities = entity_sum_array.slice(0, sizeArray);
     const categories = category_sum_array.slice(0, sizeArray);
-
-    console.log(keywords)
 
     // fs.writeFile("./pre-sortfilter-log.txt", JSON.stringify(data), function(err) {
     //     if (err) {
