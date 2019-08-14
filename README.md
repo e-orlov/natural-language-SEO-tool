@@ -6,7 +6,7 @@ Submit URLs in bulk to the IBM Watson Natural Language API and output keywords, 
 3. Add URLs you want to run through the API in add-urls-here.txt
 4. nlu-summary.xlsx will contain all of your natural language data
 
-**The script has the ability to limit requests to the IBM Watson API as you can recieve 429 errors if too many requests are made, see 'limiter' variable in index.js. Use 'minTime', e.g. 1000 = wait one second before next request**
+**The script has the ability to limit requests to the IBM Watson API as you can receive '429' errors if too many requests are made, see 'limiter' variable in index.js. Use 'minTime', e.g. 1000 = wait one second before next request**
 
 ## Setting up access to IBM Watson Natural Language API
 
