@@ -38,8 +38,8 @@ var NaturalLanguageUnderstandingV1 = require("watson-developer-cloud/natural-lan
 
 const naturalLanguageUnderstanding = new NaturalLanguageUnderstandingV1({
     version: "2018-11-16",
-    iam_apikey: "y7zNRFluqBE0HeUoOTLovogrExgEmYJcMfXpXYFGXYbC",
-    url: "https://gateway-lon.watsonplatform.net/natural-language-understanding/api"
+    iam_apikey: "",
+    url: ""
 });
 
 console.log("Tool Started")
