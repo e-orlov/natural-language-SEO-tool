@@ -3,10 +3,12 @@ Submit URLs in bulk to the IBM Watson Natural Language API and output keywords, 
 
 1. Get access to the API (see below)
 2. Add API details to index.js
-3. Add URLs you want to run through the API in file.txt
-4. nlu-output.csv will contain all of your natural language data
+3. Add URLs you want to run through the API in add-urls-here.txt
+4. nlu-summary.xlsx will contain all of your natural language data
 
-**The script does not limit the amount of requests made to the API, avoid checking large amounts of URLs in one go - stick to around 100/150 to reduce error responses**
+**The script has the ability to limit requests to the IBM Watson API, see 'limiter' variable in index.js.
+Use 'minTime', e.g. 1000 = wait one second before next request
+**
 
 ## Setting up access to IBM Watson Natural Language API
 
@@ -15,7 +17,3 @@ Submit URLs in bulk to the IBM Watson Natural Language API and output keywords, 
 3. Go to resource list - https://cloud.ibm.com/resources
 4. Find natural language understanding service in list
 5. Copy the API Key and URL values and paste below
-
-## What to do with the data
-
-Once you have your nlu-output.csv data open it in excel and pivot to look for recurring keywords/entities - see this blog post for further info
