@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fast-csv": "^2.4.1",
+    "bottleneck": "^2.19.5",
+    "cli-progress": "^3.0.0",
+    "exceljs": "^1.14.0",
     "watson-developer-cloud": "^3.18.1"
   }
 }
